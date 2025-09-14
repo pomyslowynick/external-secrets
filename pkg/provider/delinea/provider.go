@@ -1,3 +1,5 @@
+//go:build delinea
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

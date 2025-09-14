@@ -1,3 +1,5 @@
+//go:build onboardbase
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

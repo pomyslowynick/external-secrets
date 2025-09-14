@@ -1,3 +1,5 @@
+//go:build conjur
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

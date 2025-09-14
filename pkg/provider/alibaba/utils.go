@@ -1,3 +1,5 @@
+//go:build alibaba
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

@@ -1,3 +1,5 @@
+//go:build oracle
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

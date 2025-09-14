@@ -1,3 +1,5 @@
+//go:build fortanix
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

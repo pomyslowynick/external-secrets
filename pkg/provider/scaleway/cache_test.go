@@ -1,3 +1,5 @@
+//go:build scaleway
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

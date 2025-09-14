@@ -1,3 +1,5 @@
+//go:build aws
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

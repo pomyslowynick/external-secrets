@@ -1,3 +1,5 @@
+//go:build kubernetes
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

@@ -1,3 +1,5 @@
+//go:build gitlab
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

@@ -127,7 +127,7 @@ build: $(addprefix build-,$(ARCH)) ## Build binary
 build-%: generate ## Build binary for the specified arch
 	@$(INFO) go build $*
 	$(BUILD_ARGS) GOOS=linux GOARCH=$* \
-		go build -o '$(OUTPUT_DIR)/external-secrets-linux-$*' main.go
+		go build -tags=akeyless,alibaba,aws,azure,beyondtrust,bitwarden,chef,cloudru,conjur,delinea,device42,doppler,fake,fortanix,gcp,github,gitlab,ibm,infisical,keepersecurity,kubernetes,onboardbase,onepassword,onepasswordsdk,oracle,passbolt,passworddepot,previder,pulumi,register,scaleway,secretserver,senhasegura,testing,util,vault,webhook,yandex -o '$(OUTPUT_DIR)/external-secrets-linux-$*' main.go
 	@$(OK) go build $*
 
 lint: golangci-lint ## Run golangci-lint

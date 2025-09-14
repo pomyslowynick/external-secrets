@@ -1,3 +1,5 @@
+//go:build device42
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

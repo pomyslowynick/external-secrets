@@ -1,3 +1,5 @@
+//go:build cloudru
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

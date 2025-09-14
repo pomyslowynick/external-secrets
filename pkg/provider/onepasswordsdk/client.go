@@ -1,3 +1,5 @@
+//go:build onepasswordsdk
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

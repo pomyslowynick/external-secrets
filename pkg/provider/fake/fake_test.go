@@ -1,3 +1,5 @@
+//go:build fake
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

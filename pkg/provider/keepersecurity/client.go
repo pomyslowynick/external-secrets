@@ -1,3 +1,5 @@
+//go:build keepersecurity
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

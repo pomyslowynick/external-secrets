@@ -1,3 +1,5 @@
+//go:build ibm
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

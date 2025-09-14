@@ -1,3 +1,5 @@
+//go:build infisical
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

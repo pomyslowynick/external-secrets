@@ -1,3 +1,5 @@
+//go:build bitwarden
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

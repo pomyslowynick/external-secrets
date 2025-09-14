@@ -1,3 +1,5 @@
+//go:build gcp
+
 /*
 Copyright © 2025 ESO Maintainer Team
 

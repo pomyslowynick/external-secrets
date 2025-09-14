@@ -1,3 +1,5 @@
+//go:build github
+
 /*
 Copyright © 2025 ESO Maintainer Team
 
